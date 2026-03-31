@@ -5,7 +5,7 @@ Code for "An Efficient and Lightweight Model for Traffic Object Detection in Aut
 ## Files
 
 - `yolov8n-BiFPN+CA+Dy_Sample.yaml` – model configuration
-- `BiFPN.py` – Bidirectional Feature Pyramid Network
+- `BiFPN.py` – Bidirectional Feature Pyramid Network with P2 map
 - `CoordAtt.py` – Coordinate Attention module
 - `Dvsample.py` – DySample dynamic upsampler
 - `mytrain.py` – training script

@@ -9,7 +9,6 @@ Code for "An Efficient and Lightweight Model for Traffic Object Detection in Aut
 - `CoordAtt.py` – Coordinate Attention module
 - `Dvsample.py` – DySample dynamic upsampler
 - `mytrain.py` – training script
-- `selector.py` – script for selecting a balanced subset from BDD100K
 
 ## Dataset
 

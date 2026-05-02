@@ -13,7 +13,6 @@ Code for "An Efficient and Lightweight Model for Traffic Object Detection in Aut
 ## Dataset
 
 The BDD100K dataset is publicly available at [https://bdd-data.berkeley.edu/](https://bdd-data.berkeley.edu/).  
-We use a custom nighttime subset (3,500 images) derived from it. Please refer to the paper for the exact filtering and splitting criteria.
 
 
 ## Requirements

@@ -1,6 +1,6 @@
 # YOLOv8n-BCD
 Code for "An Efficient and Lightweight Model for Traffic Object Detection in Autonomous Vehicles under Nighttime Conditions"
-
+[![DOI](https://img.shields.io/badge/DOI-10.3390/act15060313-blue)](https://doi.org/10.3390/act15060313)
 
 ## Files
 
